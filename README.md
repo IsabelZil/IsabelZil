@@ -1,5 +1,8 @@
-## Hi there 👋
+#  Hi there 👋
+## About me
 ### I'm Isabel, from Lisbon.
+## Contacts
+#### Reach me out at isabelzilhaofrontend@gmail.com
 <!--
 **IsabelZil/IsabelZil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
