@@ -1,6 +1,7 @@
 #  Hi there 👋
-## About me
-### I'm Isabel, from Lisbon.
+
+### I'm Isabel from Lisbon, Portugal
+##
 ## Contacts
 #### Reach me out at isabelzilhaofrontend@gmail.com
 <!--
